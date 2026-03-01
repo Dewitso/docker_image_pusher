@@ -5,5 +5,8 @@
 #chromadb/chroma:0.5.13
 #milvusdb/milvus:v2.4.13
 milvusdb/milvus:v2.5.4
+
+calciumion/new-api:latest
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
